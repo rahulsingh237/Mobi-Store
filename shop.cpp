@@ -614,8 +614,7 @@ cout<<"*";
     case 3:
 	   clrscr();
 	   cout<<"\n\n\n\n\n\n\n\t\t\t\tEND OF PROGRAM";
-	   cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t\t BY Abhinav Goel";
-	   cout<<"\n\t\t\t\t\t\t\t\t BCA-II MORNIGN SHIFT ";
+	   cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t\t BY Rahul Veer Singh";
 
    }
   }while(choice<3);
