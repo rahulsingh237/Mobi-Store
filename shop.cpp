@@ -379,7 +379,7 @@ void main()
  char ch3[4];
  clrscr();
 				//mains screen
- cout<<"\n\n\n\n\n\t\t\t\t  DEVELOPED BY \n\t\t\t ABHINAV GOYAL AND VARUN KATARIA";
+ cout<<"\n\n\n\n\n\t\t\t\t  DEVELOPED BY \n\t\t\t Rahul Veer Singh";
  cout<<"\n\n\n\n\n\t\t\t***********************************";
  cout<<"\n\t\t\t\t  WELCOME TO THE ";
  cout<<"\n\t\t\t        ELECTRONICS MEGASTORE";
